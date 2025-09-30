@@ -1,10 +1,10 @@
 # Addon info
 bl_info = {
-    "name": "Game Exporter",
+    "name": "Game Exporter DEV",
     "description": "Export models & animations to game engines such as Unity & Unreal",
-    "author": "Joep Peters, Laurens 't Jong",
+    "author": "Joep Peters, Laurens 't Jong, Jelmer Kok",
     "blender": (3, 4, 1),
-    "version": (1, 2, 2),
+    "version": (1, 2, 3),
     "category": "Import-Export",
     "location": "View3D > Sidebar > Game Exporter",
     "warning": "",
